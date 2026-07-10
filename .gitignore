@@ -1,0 +1,12 @@
+# 이미지 파일
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+
+# 데이터/체크포인트
+.ipynb_checkpoints/
+*.h5
+*.keras
